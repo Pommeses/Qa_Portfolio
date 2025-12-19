@@ -29,6 +29,8 @@ Das Angebot richtet sich an **Endverbraucher aller Altersgruppen**, wobei **Alte
 - Filterung und Sortierung von Produkten  
 - Favoritenfunktion  
 - Navigationsmenü mit Seiten: Home, Shop, Favorites, Contact  
+- warenkorb
+- 
 
 ---
 
@@ -54,14 +56,6 @@ Das Angebot richtet sich an **Endverbraucher aller Altersgruppen**, wobei **Alte
 ---
 
 ## Risiken und Gegenmaßnahmen
-
-| Bereich / Test        | Risiko                                                   | Gegenmaßnahme |
-|------------------------|----------------------------------------------------------|----------------|
-| Navigation             | Falsche Verknüpfungen                                   | Hauptbuttons durchgehen |
-| Produktsuche           | Falsches oder nicht angezeigtes Produkt                 | Suchfunktion mit verschiedenen Produkten überprüfen |
-| Registrierung/Login    | Account wird nicht angezeigt oder existiert mehrfach    | Verschiedene Accounts mit ähnlichen/glichen Namen anlegen |
-| Altersverifikation     | Zugriff auf beschränkte Produkte unabhängig vom Alter   | Tests mit verschiedenen Altersangaben durchführen |
-| Favoritenfunktion      | Produkte werden nicht oder falsch gespeichert           | Mit unterschiedlichen Produkten Hinzufügen und Entfernen testen |
 
 **Weitere Risiken:**
 - Entwicklungsverzögerungen → Zeitpuffer im Zeitplan einplanen  
@@ -100,14 +94,11 @@ Alle Positionen: **Felix Mönig**
 - Ausfall der Testumgebung oder Ressourcenmangel.  
 
 ### Abnahmekriterien (Exit Criteria)
-- Alle geplanten Testfälle wurden durchgeführt.  
-- Ausführungsquote: mindestens **95 %** der Testfälle ausgeführt.  
-- Bestehensquote: mindestens **90 %** der ausgeführten Testfälle bestanden.  
+- Alle geplanten Testfälle wurden durchgeführt.   
 - Kritische und hochpriorisierte Fehler wurden behoben und geschlossen.  
-- Keine offenen Fehler der Schwere 1 oder 2.  
-- Performanzkennzahlen erfüllt.  
-- Sicherheitsprobleme gelöst.  
-- **UAT** abgeschlossen und freigegeben.  
+- Keine offenen Fehler der Schwere 1 oder 2.
+- **UAT** abgeschlossen und freigegeben. 
+- Abbruch bei total ausfall
 
 ---
 
@@ -153,13 +144,13 @@ Alle Positionen: **Felix Mönig**
 ## 7. Zeitplan und Aufwandsschätzung
 
 | Aktivität | Startdatum | Enddatum | Umgebung | Verantwortlich | Geplanter Aufwand |
-|------------|------------|-----------|------------|------------------|
+|-----------|------------|----------|----------|----------------|-------------------|
 | Testplanung | 03.11.2025 | 03.11.2025 | Alle | QA | 20 Stunden |
 | Testfalldesign | 03.11.2025 | 03.11.2025 | Alle | QA | 60 Stunden |
-| Funktionale Tests (Navigation, Suche, Login, Altersverifikation, Favoriten) | – | – | TEST | QA | 30 Stunden |
-| Dokumentation der Testergebnisse | – | – | TEST | QA | 80 Stunden |
-| Review und Abschlussbewertung | – | – | TEST | QA | 40 Stunden |
-| Abnahmetest (UAT) | – | – | ACC | QA | 20 Stunden |
+| Funktionale Tests (Navigation, Suche, Login, Altersverifikation, Favoriten) | –          | – | TEST | QA | 30 Stunden |
+| Dokumentation der Testergebnisse | –          | – | TEST | QA | 80 Stunden |
+| Review und Abschlussbewertung | –          | – | TEST | QA | 40 Stunden |
+| Abnahmetest (UAT) | –          | – | ACC | QA | 20 Stunden |
 
 **Gesamter Aufwand:** ca. **250 Stunden**
 
