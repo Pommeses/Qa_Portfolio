@@ -1,3 +1,5 @@
+import screenshot
+
 ### TC_01 Bewertung eines gekauften Artiekels mit Kommentar
 Umgebung: Eingelogt mit Username: mail@123.com Passwort: Test24 Produkt: Birchwood Quarter Pounders
 
@@ -11,8 +13,8 @@ Steps:
 Erwartetes Resultat: Bewertung erscheint korrekt mit 4 Sternen und Kommentar.
 Aktuelles Resultat: Bewertung erscheint mit 4 Sternen und Name aber ohne Kommentar.
 
-![screebshots](screenshots/tc_01_durchführung.png)
-![screebshots](screenshots/tc_01_ergebnis.png)
+![screenshots](../screenshots/tc_01_durchführung.png)
+![screenshots](../screenshots/tc_01_ergebnis.png)
 
 ----
 
@@ -29,8 +31,8 @@ Steps:
 Erwartetes Resultat: Bewertung erscheint korrekt mit 5 Sternen und Kommentar.
 Aktuelles Resultat: Bewertung erscheint korrekt mit 5 Sternen und Kommentar.
 
-![screebshots](screenshots/tc_02_durchführung.png)
-![screebshots](screenshots/tc_02_ergebnis.png)
+![screenshots](../screenshots/tc_02_durchführung.png)
+![screenshots](../screenshots/tc_02_ergebnis.png)
 
 ----
 
@@ -46,7 +48,7 @@ Steps:
 Erwartetes Resultat: Bewertung wird nicht mehr angezeigt 
 Aktuelles Resultat: Bewertung wird nicht mehr angezeigt
 
-![screebshots](screenshots/tc_03_pop_up.png)
+![screenshots](../screenshots/tc_03_pop_up.png)
 
 ----
 
@@ -61,8 +63,8 @@ Steps:
 Erwartetes Resultat: Bestättigungs pop up und zugriff auf Alkoholische Produkte
 Aktuelles Resultat: Bestättigungs pop up und zugriff auf Alkoholische Produkte
 
-![screebshots](screenshots/tc_04_durchführung.png)
-![screebshots](screenshots/tc_04_ergebnis.png)
+![screenshots](../screenshots/tc_04_durchführung.png)
+![screenshots](../screenshots/tc_04_ergebnis.png)
 
 ----
 
@@ -77,8 +79,8 @@ Steps:
 Erwartetes Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 Aktuelles Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 
-![screebshots](screenshots/tc_05_durchführung.png)
-![screebshots](screenshots/tc_05_ergebnis.png)
+![screenshots](../screenshots/tc_05_durchführung.png)
+![screenshots](../screenshots/tc_05_ergebnis.png)
 
 ----
 
@@ -93,8 +95,8 @@ Steps:
 Erwartetes Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 Aktuelles Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 
-![screebshots](screenshots/tc_06_durchführung.png)
-![screebshots](screenshots/tc_06_ergebnis.png)
+![screenshots](../screenshots/tc_06_durchführung.png)
+![screenshots](../screenshots/tc_06_ergebnis.png)
 
 ----
 
@@ -110,7 +112,7 @@ Steps:
 Erwartetes Resultat: nur kosten der Ware ohne lieferkosten
 Aktuelles Resultat: nur kosten der Ware ohne lieferkosten
 
-![screebshots](screenshots/tc_07_warenkorb.png)
+![screenshots](../screenshots/tc_07_warenkorb.png)
 
 ----
 
@@ -126,7 +128,7 @@ Steps:
 Erwartetes Resultat: kosten der Ware plus lieferkosten
 Aktuelles Resultat: kosten der Ware plus lieferkosten
 
-![screebshots](screenshots/tc_08_warenkorb.png)
+![screenshots](../screenshots/tc_08_warenkorb.png)
 
 ----
 
@@ -143,5 +145,5 @@ Steps:
 Erwartetes Resultat: kosten der Ware plus lieferkosten
 Aktuelles Resultat: kosten der Ware ohne lieferkosten
 
-![screebshots](screenshots/tc_09_warenkorb_über.png)
-![screebshots](screenshots/tc_09_warenkorb_weniger.png)
+![screenshots](../screenshots/tc_09_warenkorb_über.png)
+![screenshots](../screenshots/tc_09_warenkorb_weniger.png)
