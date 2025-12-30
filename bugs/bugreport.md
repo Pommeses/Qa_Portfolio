@@ -12,8 +12,8 @@ Bewertung erscheint korrekt mit 4 Sternen und Kommentar.
 ### Aktuelles Ergebnis:
 Bewertung erscheint mit 4 Sternen und Name aber ohne Kommentar.
 ### Screenshots / Anhänge:
-![screebshots](screenshots/tc_01_durchführung.png)
-![screebshots](screenshots/tc_01_ergebnis.png)
+![screebshots](../screenshots/tc_01_durchführung.png)
+![screebshots](../screenshots/tc_01_ergebnis.png)
 
 ----
 
@@ -31,5 +31,5 @@ kosten der Ware plus lieferkosten
 ### Aktuelles Ergebnis:
 kosten der Ware ohne lieferkosten
 ### Screenshots / Anhänge:
-![screebshots](screenshots/tc_09_warenkorb_über.png)
-![screebshots](screenshots/tc_09_warenkorb_weniger.png)
+![screebshots](../screenshots/tc_09_warenkorb_über.png)
+![screebshots](../screenshots/tc_09_warenkorb_weniger.png)
