@@ -31,8 +31,8 @@ Steps:
 Erwartetes Resultat: Bewertung erscheint korrekt mit 5 Sternen und Kommentar.
 Aktuelles Resultat: Bewertung erscheint korrekt mit 5 Sternen und Kommentar.
 
-![screenshots](../screenshots/tc_02_durchführung.png)
-![screenshots](../screenshots/tc_02_ergebnis.png)
+![screenshots](../screenshots/Tc_02_durchführung.png)
+![screenshots](../screenshots/Tc_02_ergebnis.png)
 
 ----
 
@@ -48,7 +48,7 @@ Steps:
 Erwartetes Resultat: Bewertung wird nicht mehr angezeigt 
 Aktuelles Resultat: Bewertung wird nicht mehr angezeigt
 
-![screenshots](../screenshots/tc_03_pop_up.png)
+![screenshots](../screenshots/Tc_03_pop_up.png)
 
 ----
 
@@ -63,8 +63,8 @@ Steps:
 Erwartetes Resultat: Bestättigungs pop up und zugriff auf Alkoholische Produkte
 Aktuelles Resultat: Bestättigungs pop up und zugriff auf Alkoholische Produkte
 
-![screenshots](../screenshots/tc_04_durchführung.png)
-![screenshots](../screenshots/tc_04_ergebnis.png)
+![screenshots](../screenshots/Tc_04_durchführung.png)
+![screenshots](../screenshots/Tc_04_ergebnis.png)
 
 ----
 
@@ -79,8 +79,8 @@ Steps:
 Erwartetes Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 Aktuelles Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 
-![screenshots](../screenshots/tc_05_durchführung.png)
-![screenshots](../screenshots/tc_05_ergebnis.png)
+![screenshots](../screenshots/Tc_05_durchführung.png)
+![screenshots](../screenshots/Tc_05_ergebnis.png)
 
 ----
 
@@ -95,8 +95,8 @@ Steps:
 Erwartetes Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 Aktuelles Resultat: Abgelehnt pop up und kein zugriff auf Alkoholische Produkte
 
-![screenshots](../screenshots/tc_06_durchführung.png)
-![screenshots](../screenshots/tc_06_ergebnis.png)
+![screenshots](../screenshots/Tc_06_durchführung.png)
+![screenshots](../screenshots/Tc_06_ergebnis.png)
 
 ----
 
@@ -112,7 +112,7 @@ Steps:
 Erwartetes Resultat: nur kosten der Ware ohne lieferkosten
 Aktuelles Resultat: nur kosten der Ware ohne lieferkosten
 
-![screenshots](../screenshots/tc_07_warenkorb.png)
+![screenshots](../screenshots/tc_07_Warenkorb.png)
 
 ----
 
@@ -128,7 +128,7 @@ Steps:
 Erwartetes Resultat: kosten der Ware plus lieferkosten
 Aktuelles Resultat: kosten der Ware plus lieferkosten
 
-![screenshots](../screenshots/tc_08_warenkorb.png)
+![screenshots](../screenshots/tc_08_Warenkorb.png)
 
 ----
 
